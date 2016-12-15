@@ -1,0 +1,69 @@
+/* GENERAL STYLES*/
+.img {
+    width: 200px;
+}
+
+a:hover {
+	color: yellowgreen;
+}
+
+/* HEADER */
+.header {
+        position: relative;
+        height: 170px;
+	box-sizing: border-box;
+        background-image: url("../images/rgb2_pets.jpg");
+        background-position: 50% 10%;
+        background-size: cover;
+}
+.header-title {
+	position: inherit;
+	top: 20%;
+	color: yellowgreen;
+	text-align: center;
+        font-weight: bold;
+	font-size: 1.7em;
+}
+
+.header-text {
+	position: inherit;
+	top: 15%;
+	color: #777;
+	text-align: center;
+        font-weight: bold;
+	font-size: 0.95em;
+}
+/* NAVIGATION */
+.navmenu {
+width: 150px;
+}
+
+/* MAIN PART */
+.main-container {
+        min-height: 350px;	
+}
+.main-container h1 {
+	font-size: 1.9em;
+	color: #777;
+}
+h4 {
+    color: #777;
+}
+/* FOOTER */
+.footer {
+	height: 110px;
+	background-image: url("../images/rgb2_pets.jpg");
+        background-position: 50% 37%;
+        background-size: cover;
+}
+.footer h2 {
+	padding-top: 16px;
+	margin-right: 15px;
+	color: #777;
+	text-align: right;
+	font-size: 0.95em;	
+}
+.test
+{
+    border: 3px red solid;
+}
